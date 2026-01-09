@@ -19,7 +19,7 @@ ________________________________________
 .
 ├── main.cpp          # Application entry point and system orchestration
 ├── config.h          # Global configuration (WiFi, MQTT, system options)
-├── pins.h            # GPIO pin assignments
+├── pins.h            # GPIO pin assignments        
 ├── valve.h / valve.cpp
 │                     # Valve abstraction and motor control logic
 ├── mqtt.h / mqtt.cpp # MQTT client setup and message handling
