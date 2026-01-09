@@ -1,6 +1,6 @@
 # VD-MOT Control
 
-**VD-MOT Control** is a personal **hobby ESP32 project** for controlling a motorized valve with sensor feedback, MQTT integration, and a clean built-in web interface.
+**VD-MOT Control** is a personal **hobby ESP32 project** for controlling one motorized Homematic IP VD-MOT (3.3V) valve with sensor feedback, MQTT integration, and a clean built-in web interface.
 
 The project was developed mainly for **learning, experimenting, and practical home automation use cases** (e.g. floor heating, water flow control, or similar actuator-based systems).
 
